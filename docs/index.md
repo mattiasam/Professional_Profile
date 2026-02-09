@@ -2,6 +2,11 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Please enjoy it
+
+![The ECRI banner](assets/ecri-banner.png)
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
